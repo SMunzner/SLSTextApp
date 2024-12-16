@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLSTextApp", "SLSTextApp\SLSTextApp.csproj", "{45B2C2EA-3FB7-4B65-A5DC-1EA1A255C7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B2C2EA-3FB7-4B65-A5DC-1EA1A255C7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B2C2EA-3FB7-4B65-A5DC-1EA1A255C7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B2C2EA-3FB7-4B65-A5DC-1EA1A255C7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B2C2EA-3FB7-4B65-A5DC-1EA1A255C7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764C5640-E542-43C1-A7C2-94A0A597E8D5}
+	EndGlobalSection
+EndGlobal
